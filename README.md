@@ -12,6 +12,12 @@ The fundamental explanation of each of the sections to be carried out can be vie
 - [Services](#Services)
 - [Languages](#Languages)
 
+## Tools
+
+```sh
+Visual Studio Code
+```
+
 ## Installation
 
 

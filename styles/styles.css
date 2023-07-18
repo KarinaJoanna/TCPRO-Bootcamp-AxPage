@@ -1,26 +1,45 @@
 body {
-    background-color: #fbdada;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Abel', sans-serif;
 }
 
-.navbar {
-    display: flex;
-    align-items: center;
-    justify-content: right;
-    flex-direction: row;
+.navbar ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ed4969;
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 
-.navbar a{
-    color:  #da073d;
-    margin-right: 15px;
+.navbar li{
+    float: left;
 }
+
+.navbar li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar a:hover:not(.active){
+    background-color: #ffffff56;
+}
+
+.active{
+    background-color: #f9d2d5;
+}
+
 
 .title1{
     font-family: 'Londrina Outline', cursive;
     font-size: 80px;
     color: #ed4969;
     text-align: center;
-    
+    background-color: #fee3e5;
 }
 
 img{
@@ -31,8 +50,85 @@ img{
     margin-top: 5%;
 }
 
+.description-aj{
+    font-size: 16px;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
 h3{
-    font-size: 25px;
+    font-size: 20px;
+    text-align: center;
     color: #f66a7f
+}
+
+.aj-food{
+    text-align: center;
+    margin: 10px;
+}
+
+.aj-food ul{
+    list-style: none;
+}
+
+.aj-food li{
+    display: inline-block;
+    width: 30%;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #f66a7f;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.aj-food li img{
+    width: 80px;
+    height: 80px;
+}
+
+.who-is-aj ul li {
+    list-style: none;
+    margin-bottom: 20px;
+}
+
+.mitologia {
+   width: 180px;
+   height: 110px;
+}
+
+.anatomia{
+    width: 450px;
+    height: 450px;
+}
+
+.more-info {
+    margin: 20px;
+}
+
+.regeneracion-info {
+    text-align: center;
+}
+
+.regeneracion-info img {
+    display: inline-block;
+    align-items: center;
+    width: 120px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.formulario {
+    margin: 20px;
+    text-align: left;
+}
+
+.alert-ax {
+    width: 40%;
+    padding: 10px;
+    border: 1px solid red;
+    border-radius: 5px;
+    text-align: center;
+    margin: 0 auto;
 }
 

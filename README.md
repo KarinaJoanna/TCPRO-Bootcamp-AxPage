@@ -8,11 +8,11 @@ This page is created solely from front-end using HTML and CSS. The purpose of th
 
 The fundamental explanation of each of the sections to be carried out can be viewed in the following links:
 
-- [Instalacion](#Instalacion)
-- [Servicio](#Servicio)
+- [Installation](#Installation)
+- [Services](#Services)
 - [Languages](#Languages)
 
-## Instalation
+## Installation
 
 
 * You can downland the full code in github in "Code" and then Download ZIP or Open with GitHub Desktop.

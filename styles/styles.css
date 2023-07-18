@@ -1,0 +1,38 @@
+body {
+    background-color: #fbdada;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    flex-direction: row;
+}
+
+.navbar a{
+    color:  #da073d;
+    margin-right: 15px;
+}
+
+.title1{
+    font-family: 'Londrina Outline', cursive;
+    font-size: 80px;
+    color: #ed4969;
+    text-align: center;
+    
+}
+
+img{
+    width: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+}
+
+h3{
+    font-size: 25px;
+    color: #f66a7f
+}
+

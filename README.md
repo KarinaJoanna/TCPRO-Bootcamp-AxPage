@@ -1,30 +1,34 @@
 # Axolotes page 
 
-> Karina Joanna Xochipa Mendoza Axolotes pages.
+> Author: Karina Joanna Xochipa Mendoza
 
-La explicacion fundamental de cada una de las secciones a realizar se podra visualizar en los sigueintes links:
+## About
+
+This page is created solely from front-end using HTML and CSS. The purpose of this page is to share certain curiosities about Axolotls. I hope you enjoy the page.
+
+The fundamental explanation of each of the sections to be carried out can be viewed in the following links:
 
 - [Instalacion](#Instalacion)
 - [Servicio](#Servicio)
-- [Lenguajes Viables](#Lenguajes-Viables)
+- [Languages](#Languages)
 
-## Instalacion
+## Instalation
 
 
-* you can downland the full code in github 
+* You can downland the full code in github in "Code" and then Download ZIP or Open with GitHub Desktop.
 ```sh
 https://github.com/KarinaJoanna/TCPRO-Bootcamp-AxPage
 ```
 
-✨ Optional: Puedes hacer atribuciones y pull request sin embargo no se puede cambiar el codigo fuente y el copyright
+✨ Optional: You can make attributions and pull requests however you cannot change the source code and copyright
 
-## Servicio
+## Services
 
 - Axolotes information
 - Form about Axolotes
 
 
-## Lenguajes Viables
+## Languages
 
 - HTML
 - CSS

@@ -8,9 +8,11 @@ This page is created solely from front-end using HTML and CSS. The purpose of th
 
 The fundamental explanation of each of the sections to be carried out can be viewed in the following links:
 
+- [Tools](#Tools)
 - [Installation](#Installation)
 - [Services](#Services)
 - [Languages](#Languages)
+- [Visualization](#Visualization)
 
 ## Tools
 
@@ -38,3 +40,11 @@ https://github.com/KarinaJoanna/TCPRO-Bootcamp-AxPage
 
 - HTML
 - CSS
+
+## Visualization
+
+You can see the final project, just click on the next link
+
+```sh
+https://ajolotespagekj.netlify.app/
+```
